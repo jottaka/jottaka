@@ -3,7 +3,7 @@
 ### About me:
 - 🔭 I´m currently studying at [**42 Porto**](https://www.42porto.com) and [**UA** - University of Aveiro](https://www.ua.pt);
 - 🔑 I´m _Electrical Engineer_ with experience in _data analysis_ and process automation with _SQL and Excel-VBA_;
-- 🔍 My interests are _Progamming (C and Python_ mainly), _Engineer_ and _Data Science_;
+- 🔍 My interests are _Progamming (C and Python_ mainly), _Engineer_ and _Data Science_.
 
 ---
 ### 42 Common Core Projects:
